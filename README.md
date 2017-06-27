@@ -1,6 +1,6 @@
 # Puncak-Jaya 3D 
  
-See and browse it at: https://smaprs.github.io/
+See and browse it at: https://smaprs.github.io/Puncak-Jaya/
   
 Made in QGIS using: -Qgis2threejs plugin for 3D digital elevation model processing - https://github.com/minorua/Qgis2threejs;
 -Contour lines made with Raster plugin from GdalTools;  
